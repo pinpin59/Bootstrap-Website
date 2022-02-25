@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.imgProfileAcc{
+    width: 150px;
+}
+
+#accueil{
+    min-height: 750px;
+}
+
+.imgServices{
+    width: 120px;
+    height: 120px;
+}
+.navbar{
+    border-bottom: 1px solid black;
+}
+.titreContact{
+    padding: 40px 0 50px 0;
+    margin-top: 100px;
+}
